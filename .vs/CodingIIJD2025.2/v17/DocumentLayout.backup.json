@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\filip\\CodingIIJD2025.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|C:\\Users\\filip\\CodingIIJD2025.2\\assets\\scriptsteste\\damagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\di\u00E1logo\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\di\u00E1logo\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\damagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\damagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Di\u00E1logo\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Di\u00E1logo\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Di\u00E1logo\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\ScriptsTeste\\Di\u00E1logo\\DialogueManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T18:49:04.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DamageTest.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\DamageTest.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\DamageTest.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\PlayerHealth.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ExemploCodingII15Agosto2025.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\ExemploCodingII15Agosto2025.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\ExemploCodingII15Agosto2025.cs",

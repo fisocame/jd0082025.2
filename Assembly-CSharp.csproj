@@ -61,10 +61,13 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.0.48f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ScriptsTeste\Aula 5\FastGround.cs" />
     <Compile Include="Assets\ScriptsTeste\PlayerHealth.cs" />
-    <Compile Include="Assets\ScriptsTeste\Diálogo\DialogueManager.cs" />
+    <Compile Include="Assets\ScriptsTeste\Aula 5\SlowGround.cs" />
     <Compile Include="Assets\ScriptsTeste\ExemploCodingII15Agosto2025.cs" />
+    <Compile Include="Assets\ScriptsTeste\Aula 3\DialogueManager.cs" />
     <Compile Include="Assets\ScriptsTeste\DamageTest.cs" />
+    <Compile Include="Assets\ScriptsTeste\Aula 5\PlayerMovement2D.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
