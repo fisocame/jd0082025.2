@@ -3,15 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\filip\\CodingIIJD2025.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\aula 5\\fastground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\aula 6\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\aula 6\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\aula 6\\pickableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\aula 6\\pickableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\aula 6\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\aula 6\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\aula 6\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\aula 6\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\MovIso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ScriptsTeste\\Aula 6\\MovIso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|C:\\Users\\filip\\CodingIIJD2025.2\\assets\\scriptsteste\\aula 5\\fastground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\aula 5\\fastground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\aula 5\\slowground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|C:\\Users\\filip\\CodingIIJD2025.2\\assets\\scriptsteste\\aula 5\\slowground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\aula 5\\slowground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|c:\\users\\filip\\codingiijd2025.2\\assets\\scriptsteste\\aula 5\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|C:\\Users\\filip\\CodingIIJD2025.2\\assets\\scriptsteste\\aula 5\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{967DEE8A-A82C-5CD8-C722-A320A0D16D9C}|Assembly-CSharp.csproj|solutionrelative:assets\\scriptsteste\\aula 5\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -38,11 +58,74 @@
       "DocumentGroups": [
         {
           "DockedHeight": 330,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Aula 6\\Inventory.cs",
+              "ToolTip": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\Inventory.cs",
+              "RelativeToolTip": "Assets\\ScriptsTeste\\Aula 6\\Inventory.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAiwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:32:22.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "InventoryUI.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\InventoryUI.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Aula 6\\InventoryUI.cs",
+              "ToolTip": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\InventoryUI.cs",
+              "RelativeToolTip": "Assets\\ScriptsTeste\\Aula 6\\InventoryUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:32:21.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PickableItem.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\PickableItem.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Aula 6\\PickableItem.cs",
+              "ToolTip": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\PickableItem.cs",
+              "RelativeToolTip": "Assets\\ScriptsTeste\\Aula 6\\PickableItem.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:32:19.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\ItemData.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Aula 6\\ItemData.cs",
+              "ToolTip": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\ItemData.cs",
+              "RelativeToolTip": "Assets\\ScriptsTeste\\Aula 6\\ItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:32:04.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovIso.cs",
+              "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\MovIso.cs",
+              "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Aula 6\\MovIso.cs",
+              "ToolTip": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 6\\MovIso.cs",
+              "RelativeToolTip": "Assets\\ScriptsTeste\\Aula 6\\MovIso.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T00:13:03.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "FastGround.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 5\\FastGround.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Aula 5\\FastGround.cs",
@@ -50,12 +133,11 @@
               "RelativeToolTip": "Assets\\ScriptsTeste\\Aula 5\\FastGround.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:18:19.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T13:18:19.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "SlowGround.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 5\\SlowGround.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Aula 5\\SlowGround.cs",
@@ -63,12 +145,11 @@
               "RelativeToolTip": "Assets\\ScriptsTeste\\Aula 5\\SlowGround.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:18:09.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T13:18:09.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PlayerMovement2D.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Aula 5\\PlayerMovement2D.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Aula 5\\PlayerMovement2D.cs",
@@ -76,12 +157,11 @@
               "RelativeToolTip": "Assets\\ScriptsTeste\\Aula 5\\PlayerMovement2D.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T13:17:52.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T13:17:52.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "DialogueManager.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\Di\u00E1logo\\DialogueManager.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\Di\u00E1logo\\DialogueManager.cs",
@@ -92,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "DamageTest.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\DamageTest.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\DamageTest.cs",
@@ -104,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "PlayerHealth.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\PlayerHealth.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\PlayerHealth.cs",
@@ -116,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ExemploCodingII15Agosto2025.cs",
               "DocumentMoniker": "C:\\Users\\filip\\CodingIIJD2025.2\\Assets\\ScriptsTeste\\ExemploCodingII15Agosto2025.cs",
               "RelativeDocumentMoniker": "Assets\\ScriptsTeste\\ExemploCodingII15Agosto2025.cs",

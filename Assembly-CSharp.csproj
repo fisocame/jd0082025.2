@@ -62,12 +62,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ScriptsTeste\Aula 5\FastGround.cs" />
+    <Compile Include="Assets\ScriptsTeste\Aula 6\InventoryUI.cs" />
     <Compile Include="Assets\ScriptsTeste\PlayerHealth.cs" />
     <Compile Include="Assets\ScriptsTeste\Aula 5\SlowGround.cs" />
     <Compile Include="Assets\ScriptsTeste\ExemploCodingII15Agosto2025.cs" />
     <Compile Include="Assets\ScriptsTeste\Aula 3\DialogueManager.cs" />
+    <Compile Include="Assets\ScriptsTeste\Aula 6\ItemData.cs" />
+    <Compile Include="Assets\ScriptsTeste\Aula 6\Inventory.cs" />
     <Compile Include="Assets\ScriptsTeste\DamageTest.cs" />
+    <Compile Include="Assets\ScriptsTeste\Aula 6\IsometricMovement2D.cs" />
     <Compile Include="Assets\ScriptsTeste\Aula 5\PlayerMovement2D.cs" />
+    <Compile Include="Assets\ScriptsTeste\Aula 6\PickableItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

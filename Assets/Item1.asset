@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa7e59e125d90444aad7f6d0b44cb2f3, type: 3}
+  m_Name: Item1
+  m_EditorClassIdentifier: 
+  itemId: olhoquetudove
+  displayName: Illuminati
+  icon: {fileID: 7482667652216324306, guid: 677ac44622d027a4ca5a551e676b03ed, type: 3}
+  stackable: 1
+  maxStack: 99
