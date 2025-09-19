@@ -3,12 +3,12 @@ using UnityEngine;
 [CreateAssetMenu(menuName = "Inventory/Item Data", fileName = "NewItemData")]
 public class ItemData : ScriptableObject
 {
-    [Header("Identificação")]
-    public string itemId;          // um ID único ("potion_small", "coin", etc.)
-    public string displayName;     // nome visível
+    [Header("Identificaï¿½ï¿½o")]
+    public string itemId;          // um ID ï¿½nico ("potion_small", "coin", etc.)
+    public string displayName;     // nome visï¿½vel
 
     [Header("Visual")]
-    public Sprite icon;            // ícone para UI
+    public Sprite icon;            // ï¿½cone para UI
 
     [Header("Empilhamento")]
     public bool stackable = true;  // pode acumular?
