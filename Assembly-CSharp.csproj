@@ -49,22 +49,45 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets/ScriptsTeste/Aula 9/Score.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/EditableConversation.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/Connection.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 5/FastGround.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 9/Launcher.cs" />
+    <Compile Include="Assets/ScriptsTeste/Aula 12/Spawn.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 9/Enemy.cs" />
+    <Compile Include="Assets/ScriptsTeste/Aula 11/NPCClick.cs" />
+    <Compile Include="Assets/ScriptsTeste/Aula 5/PlayerMoveTopDown.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/Parameter.cs" />
     <Compile Include="Assets/ScriptsTeste/PlayerHealth.cs" />
+    <Compile Include="Assets/DialogueEditor/Example/ExampleInputManager.cs" />
+    <Compile Include="Assets/ScriptsTeste/Aula 12/Door.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 7/InventoryUI.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/NodeEventHolder.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 5/SlowGround.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/EditableNode.cs" />
     <Compile Include="Assets/ScriptsTeste/ExemploCodingII15Agosto2025.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/UI/ConversationManager.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 3/DialogueManager.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/EditableCondition.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/EditableSetParamAction.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/UI/UIConversationButton.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/EditableConnection.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/ConversationNode.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/NPCConversation.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 7/Inventory.cs" />
     <Compile Include="Assets/ScriptsTeste/DamageTest.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/Conversation.cs" />
+    <Compile Include="Assets/ScriptsTeste/Aula 10/PlatformMove.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/Condition.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/EditableParameter.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 7/ItemData.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 6/IsometricMovement2D.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 9/SceneMudador.cs" />
+    <Compile Include="Assets/DialogueEditor/Assets/Scripts/SetParamAction.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 7/PickableItem.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 5/PlayerMovement2D.cs" />
     <Compile Include="Assets/ScriptsTeste/Aula 9/Projectile.cs" />
+    <Compile Include="Assets/ScriptsTeste/Aula 10/FollowPlayer.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
