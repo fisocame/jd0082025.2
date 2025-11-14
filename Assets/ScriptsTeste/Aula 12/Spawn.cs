@@ -77,6 +77,8 @@ public class Spawn : MonoBehaviour
                 $"[PlayerSpawn2D] Spawn '{nameToUse}' não encontrado na cena '{SceneManager.GetActiveScene().name}'. " +
                 $"Crie um Empty com esse NOME ou ajuste 'defaultSpawnName'."
             );
+
+            // oi!
         }
     }
 }
